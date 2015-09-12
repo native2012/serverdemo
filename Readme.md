@@ -28,7 +28,8 @@
 
 
 
-# 后期 该服务器争取 把对应 websocket  ，TCPsocket 功能也是想。
+# 后期 该服务器争取 把对应 websocket  ，TCPsocket 功能也添加上。  让更多的人可以 测试 
+
 
 如果其他需求 或者bug ， 请 联系 15801227644@126.com    感谢 
 
